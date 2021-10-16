@@ -2,6 +2,9 @@
 
 Um repositórios das melhores e piores datas comemorativas reais (ou não).
 
+No futuro vai ter aqui um script que usando as datas comemotativas, gera um calendario google com elas.
+
+
 PRs de data são bem vindos! PRs de datas comemorativas reais e inusitadas são encorajados! PRs de datas inventadas só serão aceitas se não existir uma data real para o evento e se for engraçada o suficiente.
 
 
@@ -20,7 +23,6 @@ Dentro da dados existem 12 arquivos com nomes de meses, onde os dados sobre as d
 
 ## Futuro TODO
 
-No futuro vai ter aqui um script que usando as datas comemotativas, gera um calendario google com elas.
 Talvez um nome melhor fosse bom também.
 Um script para checar se as datas são válidas.
 Script para criar o google calendar. 
